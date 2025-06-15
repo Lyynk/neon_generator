@@ -2,4 +2,5 @@ Created for Neon Serenity Roleplay, this generator will allow players to gain an
 
 Drop/drop into server resources. 
 ensure neon_generator
+run the runme.sql
 enjoy!
